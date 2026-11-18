@@ -1,6 +1,12 @@
 
 <div align="center">
+
   <img src="assets/banner.gif" width="100%" alt="Hello, I'm Quytchua" />
+
+  <br><br>
+
+  <img src="assets/ronaldo7.png" width="100%" alt="Cristiano Ronaldo 7" />
+
 </div>
 
 ## 🌐 Socials:

@@ -1,15 +1,7 @@
 <div align="center">
   <img src="assets/banner.gif" width="100%" alt="Hello, I'm Quytchua" />
 </div>
-## 👨‍💻 About Me
 
-Hi! I'm **Quytchua** 👋
-
-- 🇻🇳 I'm from Vietnam
-- 💻 I'm interested in Software Development
-- 🌱 Currently learning and improving my programming skills
-- 🎯 Goal: Become a professional developer
-- ⚡ I enjoy coding, technology and building new things
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/quytnon.exe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tuan.manh.90489/) 
 
